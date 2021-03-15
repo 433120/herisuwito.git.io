@@ -1,4 +1,10 @@
+body {
+  min-height: 2000px;
+}
 .jumbotron {
   padding-top: 4.5rem;
   background-color: #acffdf;
+}
+#pricing {
+  background-color: #00d39e;
 }
