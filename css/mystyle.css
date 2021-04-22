@@ -15,3 +15,6 @@ body {
   /*background: rgba(0, 211, 158, 0.75);*/
   background-color: #00d39e;
 }
+section {
+  padding-top: 5rem;
+}
